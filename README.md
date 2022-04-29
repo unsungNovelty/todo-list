@@ -1,6 +1,9 @@
 # todo-list
+## Live demo
 
-## How to run the todo list app?
+- [Link](https://unsungnovelty.github.io/todo-list/)
+
+## How to setup the local environment for the todo list app?
 - Clone this repo
 - go inside the directory/folder named todo-list
 - run `npm install`
